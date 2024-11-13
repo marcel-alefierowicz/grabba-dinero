@@ -22,3 +22,7 @@ grabber.py 107410 ./modpack.html
 `ids.txt` containing a generated steamcmd command to download a mod with the given app id
 
 ![example ids.txt](image.png)
+
+
+
+> questioning why this is even on github is completely fair but i couldnt be fucked to write this script again if i lost it somewhere
