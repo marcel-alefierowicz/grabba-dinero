@@ -6,7 +6,7 @@ this is an **ultra specific** use case script that grabs the steam workshop id's
 # usage:
 
 ### execution
-execute `grabber.py` while passing the steam game id and file path to the html/txt file as arguments
+execute `grabba.py` while passing the steam game id and file path to the html/txt file as arguments
 
 ```bash
 grabber.py {app_id} {{path}/example.html}
