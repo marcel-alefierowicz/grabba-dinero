@@ -9,12 +9,12 @@ this is an **ultra specific** use case script that grabs the steam workshop id's
 execute `grabba.py` while passing the steam game id and file path to the html/txt file as arguments
 
 ```bash
-grabber.py {app_id} {{path}/example.html}
+grabba.py {app_id} {{path}/example.html}
 ```
 
 example: 
 ```bash
-grabber.py 107410 ./modpack.html
+grabba.py 107410 ./modpack.html
 ```
 
 ### output:
